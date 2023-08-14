@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an R&D Developer at Visiativ with a passion fo
 - 🔭 I’m currently working as an R&D Developer at Visiativ, specializing in Solidworks API, Solidworks PDM API, and 3DExperience integration.
 - 🌱 I’m constantly learning and exploring new technologies, from C# and .NET to Restful APIs, SQLite, MSSQL, and more.
 - 🌍 I love traveling, exploring new places, and savoring delicious cuisine from around the world.
-- 💼 You can learn more about my professional journey on [LinkedIn](www.linkedin.com/in/martin-bartolomé).
+- 💼 You can learn more about my professional journey on [LinkedIn](https://www.linkedin.com/in/martin-bartolomé).
 
 ## Technologies & Tools
 
@@ -22,6 +22,6 @@ Here are some of the technologies and tools I frequently work with:
 
 ## Get in Touch
 
-📫 Feel free to reach out to me via [email](mailto:martin-bartolome@outlook.com) or connect with me on [LinkedIn](www.linkedin.com/in/martin-bartolomé).
+📫 Feel free to reach out to me via [email](mailto:martin-bartolome@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/martin-bartolomé).
 
 Looking forward to connecting with fellow developers, innovators, and tech enthusiasts!
