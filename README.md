@@ -22,6 +22,6 @@ Here are some of the technologies and tools I frequently work with:
 
 ## Get in Touch
 
-📫 Feel free to reach out to me via [email](mailto:martin-bartolome@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/martin-bartolom%C3%A9-46253b77/).
+📫 Feel free to reach out to me via [email](mailto:martin-bartolome@outlook.com) or connect with me on [LinkedIn](www.linkedin.com/in/martin-bartolomé).
 
 Looking forward to connecting with fellow developers, innovators, and tech enthusiasts!
