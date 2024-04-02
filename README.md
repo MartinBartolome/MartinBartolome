@@ -1,11 +1,11 @@
 # Hi there, I'm Martin Bartolomé! 👋
 
-Welcome to my GitHub profile! I'm an R&D Developer at Visiativ with a passion for leveraging technology to drive innovation. Here you'll find a collection of my projects, contributions, and interests in the world of software development and engineering.
+Welcome to my GitHub profile! I'm a Senior Software Engineer at Baloise with a passion for leveraging technology to drive innovation. Here you'll find a collection of my projects, contributions, and interests in the world of software development and engineering.
 
 ## About Me
 
-- 🔭 I’m currently working as an R&D Developer at Visiativ, specializing in Solidworks API, Solidworks PDM API, and 3DExperience integration.
-- 🌱 I’m constantly learning and exploring new technologies, from C# and .NET to Restful APIs, SQLite, MSSQL, and more.
+- 🔭 I’m currently working as a Senior Software Engineer at Baloise, focusing on utilizing Java, OpenShift (DevOps), Jenkins, Git, Prometheus, Grafana, and more.
+- 🌱 I’m constantly learning and exploring new technologies, from Java development to DevOps practices and monitoring tools.
 - 🌍 I love traveling, exploring new places, and savoring delicious cuisine from around the world.
 - 💼 You can learn more about my professional journey on [LinkedIn](https://www.linkedin.com/in/martin-bartolomé).
 
@@ -13,12 +13,10 @@ Welcome to my GitHub profile! I'm an R&D Developer at Visiativ with a passion fo
 
 Here are some of the technologies and tools I frequently work with:
 
-- Languages: C#, .NET, SQL
-- APIs: Solidworks API, Solidworks PDM API, 3DExperience
-- Databases: SQLite, MSSQL
+- Languages: Java
+- DevOps: OpenShift, Jenkins
 - Version Control: Git
-- Dev Tools: Visual Studio, DevExpress, Syncfusion
-- CI/CD: GitHub Actions
+- Monitoring: Prometheus, Grafana
 
 ## Get in Touch
 
