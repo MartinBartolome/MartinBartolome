@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer at Baloise with a p
 - 🔭 I’m currently working as a Senior Software Engineer at Baloise, focusing on utilizing Java, OpenShift (DevOps), Jenkins, Git, Prometheus, Grafana, and more.
 - 🌱 I’m constantly learning and exploring new technologies, from Java development to DevOps practices and monitoring tools.
 - 🌍 I love traveling, exploring new places, and savoring delicious cuisine from around the world.
-- 💼 You can learn more about my professional journey on [LinkedIn](https://www.linkedin.com/feed/).
+- 💼 You can learn more about my professional journey on [LinkedIn](https://www.linkedin.com/in/martin-bartolomé/).
 - 🏆 Check out my professional certifications and achievements on [Credly](https://www.credly.com/users/martin-mollenhoff/badges#credly).
 
 ## Technologies & Tools
@@ -30,6 +30,8 @@ Here are some of the technologies and tools I frequently work with:
 
 ### Backend & Runtime
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JBoss](https://img.shields.io/badge/jboss-%23CC0000.svg?style=for-the-badge&logo=red-hat&logoColor=white)
 
 ### Databases
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,8 +48,14 @@ Here are some of the technologies and tools I frequently work with:
 ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+## GitHub Stats
+
+![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinBartolome&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBartolome&layout=compact&theme=radical)
+
 ## Get in Touch
 
-📫 Feel free to reach out to me via [email](mailto:martin-bartolome@outlook.com), connect with me on [LinkedIn](https://www.linkedin.com/feed/), or check out my professional certifications on [Credly](https://www.credly.com/users/martin-mollenhoff/badges#credly).
+📫 Feel free to reach out to me via [email](mailto:martin-bartolome@outlook.com), connect with me on [LinkedIn](https://www.linkedin.com/in/martin-bartolomé/), or check out my professional certifications on [Credly](https://www.credly.com/users/martin-mollenhoff/badges#credly).
 
 Looking forward to connecting with fellow developers, innovators, and tech enthusiasts!
