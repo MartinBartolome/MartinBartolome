@@ -50,9 +50,13 @@ Here are some of the technologies and tools I frequently work with:
 
 ## GitHub Stats
 
-![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinBartolome&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MartinBartolome&show_icons=true&theme=radical" alt="Martin's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBartolome&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MartinBartolome&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## Get in Touch
 
